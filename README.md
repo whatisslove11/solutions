@@ -16,3 +16,7 @@
 6 - https://github.com/whatisslove11/game_life
 
 Мотивационное письмо находится в файле под названием motivation.
+
+UPD. (18.01): читать мотивационное письмо на гитхабе не очень удобно, поэтому я перенес его на гугл драйв.
+
+Мотивационное письмо: https://docs.google.com/document/d/1PQJW1-bm3N2GuvV4sKO1DWagTFpro3Q0idPInwnNyZw/edit?usp=sharing
